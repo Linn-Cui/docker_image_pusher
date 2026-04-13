@@ -5,6 +5,7 @@
 #unifreq/openwrt-aarch64:latest
 #linuxserver/qbittorrent
 #xgheaven/homebox
-b3log/siyuan
+#b3log/siyuan
+suzukirenz/komari-agent:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
