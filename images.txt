@@ -6,6 +6,8 @@
 #linuxserver/qbittorrent
 #xgheaven/homebox
 #b3log/siyuan
-suzukirenz/komari-agent:latest
+#suzukirenz/komari-agent:latest
+openlistteam/openlist:latest
+renmu1234/bililive-tools:3.11.0
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
