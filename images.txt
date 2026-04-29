@@ -7,7 +7,9 @@
 #xgheaven/homebox
 #b3log/siyuan
 #suzukirenz/komari-agent:latest
-openlistteam/openlist:latest
-renmu1234/bililive-tools:3.11.0
+#openlistteam/openlist:latest
+renmu1234/bililive-tools:3.13.0
+ghcr.io/setube/vue-xiuxiangame:latest
+ghcr.io/setube/taoyuan:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
