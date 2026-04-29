@@ -9,7 +9,5 @@
 #suzukirenz/komari-agent:latest
 #openlistteam/openlist:latest
 renmu1234/bililive-tools:3.13.0
-setube/vue-xiuxiangame:latest
-setube/taoyuan:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
